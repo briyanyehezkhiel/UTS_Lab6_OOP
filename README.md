@@ -8,6 +8,7 @@ Kode berikut merupakan solusi yang mengharuskan kita untuk memeriksa apakah sebu
 
 ### OUTPUT:
 <br>
+
 ![gambar](https://github.com/briyanyehezkhiel/UTS_Lab6_OOP/assets/114645700/0b25b1f4-9d21-4e41-936a-e173f00d9f6c)
 <br><br>
 ![gambar](https://github.com/briyanyehezkhiel/UTS_Lab6_OOP/assets/114645700/6bbe4d43-d46a-49cd-92de-46c257cecb3f)
@@ -19,6 +20,7 @@ Program ini mengimplementasikan kelas Account yang memiliki atribut id, name, da
 
 ### OUTPUT:
 <br>
+
 ![gambar](https://github.com/briyanyehezkhiel/UTS_Lab6_OOP/assets/114645700/c8b98971-0f1b-4211-a9d4-6848b36a6d6f)
 <br><br>
 
@@ -28,5 +30,6 @@ Program ini mencakup dua kelas utama, Fisika dan Matematika, yang masing-masing 
 
 ### OUTPUT:
 <br>
+
 ![gambar](https://github.com/briyanyehezkhiel/UTS_Lab6_OOP/assets/114645700/1e47e0ba-6a08-4c48-8adc-ca7468a76578)
 
